@@ -1,0 +1,46 @@
+body{
+  background-color: blueviolet;
+}
+
+h1{
+  text-shadow: 4 aqua;
+  background-color: skyblue;
+  border-radius: 3px;
+  border: 1px solid white;
+  box-shadow: 0 0 5px 5px black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  transition: all 0,3s ease-in-out;
+}
+
+h2{
+  color: white;
+}
+
+a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 60;
+    transition: background-color 0.3s;
+}
+
+.buy{
+    display: inline-block;
+    background-color: green;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 0 5px 5px greenyellow;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 60;
+    transition: background-color 0.3s;
+  
+}
+
+.textbuy{
+  color: greenyellow;
+}
