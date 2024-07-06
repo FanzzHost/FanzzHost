@@ -1,0 +1,67 @@
+const predictions = [
+"CRASH 1×",
+"CRASH 1.1×",
+"CRASH 1.2×",
+"CRASH 1.25×",
+"CRASH 1.26×",
+"CRASH 1.3×",
+"CRASH 1.34×",
+"CRASH 1.35×",
+"CRASH 1.4×",
+"CRASH 1.46×",
+"CRASH 1.51×",
+"CRASH 1.6×",
+"CRASH 1.68×",
+"CRASH 1.73×",
+"CRASH 1.8×",
+"CRASH 1.97×",
+"CRASH 2×",
+"CRASH 2.63×",
+"CRASH 2.58×",
+"CRASH 2.84×",
+"CRASH 2.92×",
+"CRASH 3.17×",
+"CRASH 3.26×",
+"CRASH 3.54×",
+"CRASH 3.59×",
+"CRASH 3.68×",
+"CRASH 3.94×",
+"CRASH 4×",
+"CRASH 4.38×",
+"CRASH 4.89×",
+"CRASH 5×",
+"CRASH 5.39×",
+"CRASH 5.87×",
+"CRASH 6.34×",
+"CRASH 6.97×",
+"CRASH 7×",
+"CRASH 7.43×",
+"CRASH 7.86×",
+"CRASH 8×",
+"CRASH 8.63×",
+"CRASH 8.91×",
+"CRASH 9×",
+"CRASH 9.53×",
+"CRASH 9.68×",
+"CRASH 9.97×",
+"CRASH 10×",
+"CRASH 11.37×",
+"CRASH 14.66×",
+"CRASH 12.78×",
+"CRASH 13.87×",
+"CRASH 15.95×",
+"CRASH 16.54×",
+"CRASH 17.36×",
+"CRASH 18.59×",
+"CRASH 19.34×",
+"CRASH 20.7×"
+];
+
+const predictionElement = document.getElementById('prediction');
+const generateBtn = document.getElementById('generateBtn');
+
+generateBtn.addEventListener('click', function() {
+    const randomIndex = Math.floor(Math.random() * predictions.length);
+    predictionElement.textContent = predictions[randomIndex];
+});
+
