@@ -1,0 +1,10 @@
+.container{
+  border: black;
+  box-shadow: 0 0 17px 0px black;
+  border-radius: 3px;
+  text-align: center;
+}
+
+h1,h4{
+  text-align: center;
+}

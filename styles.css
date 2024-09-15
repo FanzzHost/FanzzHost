@@ -1,0 +1,156 @@
+body{
+  background-color: darkturquoise;
+  font-family: Poppiens, sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-family: Poppiens, sans-serif; 
+    display: inline-block;
+    background-color: darkturquoise;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+a{
+  text-align: center;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 60;
+    transition: background-color 0.3s;
+  
+}
+
+.yt{
+    background-position: center;
+    display: inline-block;
+    background-color:  darkred;
+    color: #fff;
+    box-shadow: 0 0 3px 3px red;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.wa{
+    box-shadow: 0 0 3px 3px darkgreen;
+    display: inline-block;
+    background-color: green;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.tt{
+    box-shadow: 0 0 3px 3px white;
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.store{
+    display: inline-block;
+    background-color:  skyblue;
+    box-shadow: 0 0 3px 3px cyan;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.khodam{
+    box-shadow: 0 0 3px 3px red;
+    display: inline-block;
+    background-color: brown;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.TONIX{
+    display: inline-block;
+    background-color:  cyan;
+    box-shadow: 0 0 3px 3px white;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.hntai{
+    box-shadow: 0 0 3px 3px darkred;
+    display: inline-block;
+    background-color: fuchsia;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.main{
+    display: inline-block;
+    background-color: darkred;
+    box-shadow: yellow;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  
+}
+
+.wap{
+  color: greenyellow;
+}
+
+.ytb{
+  color: red;
+}
+
+.garap{
+  color: black;
+}
+
+.str{
+  color: white;
+}
+
+.cek{
+  color: red;
+}
+
+.mt{
+  color: red;
+}
+
+.ytb{
+  color: ghostwhite;
+}
+.list{
+  color: black;
+}

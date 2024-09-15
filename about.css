@@ -1,0 +1,26 @@
+body{
+  background-color: floralwhite
+}
+
+h1{
+  text-align: center;
+  font-family: Poppiens, sans-serif;
+}
+
+.name{
+  width: 60;
+  font-family: Poppiens, sans-serif;
+  border-radius: 3px;
+  text-align: left;
+  background-color: skyblue;
+  box-shadow: 0 0 3px 3px black;
+}
+
+.years{
+  width: 60;
+  font-family: Poppiens, sans-serif;
+  border-radius: 3px;
+  text-align: right;
+  background-color: skyblue;
+  box-shadow: 0 0 3px 3px black;
+}
